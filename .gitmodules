@@ -1,0 +1,3 @@
+[submodule "spacex_typescript_client"]
+	path = spacex_typescript_client
+	url = https://github.com/tonyb983/spacex_typescript_client.git
